@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weex-referral-code.vercel.app/sitemap.xml
